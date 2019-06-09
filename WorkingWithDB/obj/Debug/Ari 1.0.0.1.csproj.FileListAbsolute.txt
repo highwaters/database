@@ -1,0 +1,20 @@
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.manifest
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.application
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\MetroFramework.dll
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form3.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\Ari 1.0.0.1.csproj.GenerateResource.cache
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\Ari 1.0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe.manifest
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.application
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\Ari 1.0.0.1.csproj.CopyComplete
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\Ari 1.0.0.1.csprojAssemblyReference.cache

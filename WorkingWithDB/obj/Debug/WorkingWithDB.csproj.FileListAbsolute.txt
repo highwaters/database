@@ -1,0 +1,54 @@
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\HOME\Desktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojResolveAssemblyReference.cache
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+E:\PROGRAMS ARCHIVE\архив программ 25.12.16\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.Cache
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojAssemblyReference.cache
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.cache
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CoreCompileInputs.cache
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+D:\Users\Zver\Desktop\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojAssemblyReference.cache
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.cache
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form3.resources
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\MetroFramework.dll
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CopyComplete
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.manifest
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.application
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe.manifest
+C:\Users\HOME\Descktop\c#\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.application
